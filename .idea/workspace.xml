@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="481ab353-9abf-48ab-aee6-ea7375bc6b55" name="Changes" comment="utworzenie stryktury aplikacji" />
+    <list default="true" id="481ab353-9abf-48ab-aee6-ea7375bc6b55" name="Changes" comment="app.js" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.app.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "data",
     "javascript.nodejs.core.library.configured.version": "20.10.0",
@@ -71,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734289836289</updated>
-      <workItem from="1734289837337" duration="3353000" />
+      <workItem from="1734289837337" duration="3663000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <option name="closed" value="true" />
@@ -97,7 +98,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734293339854</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="app.js">
+      <option name="closed" value="true" />
+      <created>1734293470124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734293470124</updated>
+    </task>
+    <task id="LOCAL-00005" summary="app.js">
+      <option name="closed" value="true" />
+      <created>1734293608394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734293608394</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="..." />
     <MESSAGE value="utworzenie stryktury aplikacji" />
-    <option name="LAST_COMMIT_MESSAGE" value="utworzenie stryktury aplikacji" />
+    <MESSAGE value="app.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="app.js" />
   </component>
 </project>
