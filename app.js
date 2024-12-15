@@ -5,7 +5,6 @@ const animalsController = require('./controllers/AnimalsController');
 const app = express();
 const PORT = 3000;
 
-app.use(bodyParser.json());
 
 app.use('/animals', animalsController);
 
