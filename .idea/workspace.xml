@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="481ab353-9abf-48ab-aee6-ea7375bc6b55" name="Changes" comment="app.js" />
+    <list default="true" id="481ab353-9abf-48ab-aee6-ea7375bc6b55" name="Changes" comment="utworzenie zwierzat w json">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,21 +20,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lukiqki"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lukiqki&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lukiqki/zookeeper.git",
-    "accountId": "94613e96-f888-404a-a836-b9dbe4ea8ba7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lukiqki/zookeeper.git&quot;,
+    &quot;accountId&quot;: &quot;94613e96-f888-404a-a836-b9dbe4ea8ba7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2qGXMKuRy8ctekd8wtUqoRRuk3K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -45,6 +47,7 @@
   "keyToString": {
     "Node.js.app.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "data",
     "javascript.nodejs.core.library.configured.version": "20.10.0",
     "javascript.nodejs.core.library.typings.version": "20.10.8",
@@ -73,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734289836289</updated>
       <workItem from="1734289837337" duration="3663000" />
+      <workItem from="1734298209961" duration="2655000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <option name="closed" value="true" />
@@ -114,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734293608394</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="utworzenie zwierzat w json">
+      <option name="closed" value="true" />
+      <created>1734298286550</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734298286550</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +147,7 @@
     <MESSAGE value="..." />
     <MESSAGE value="utworzenie stryktury aplikacji" />
     <MESSAGE value="app.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="app.js" />
+    <MESSAGE value="utworzenie zwierzat w json" />
+    <option name="LAST_COMMIT_MESSAGE" value="utworzenie zwierzat w json" />
   </component>
 </project>
