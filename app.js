@@ -1,5 +1,5 @@
 const express = require('express');
-const bodyParser = require('body-parser');
+require('body-parser');
 const animalsController = require('./controllers/AnimalsController');
 
 const app = express();
